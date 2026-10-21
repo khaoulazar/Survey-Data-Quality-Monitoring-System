@@ -19,7 +19,7 @@ Avant toute modélisation de données, cette phase vise à traduire les compéte
 
 | Réf. | Exigence | Type | Justification |
 |---|---|---|---|
-| EX-01 | Modéliser un schéma en étoile normalisé, compatible SQLite et Azure SQL | Technique | Data modeling |
+| EX-01 | Modéliser un schéma en étoile, compatible SQLite et Azure SQL | Technique | Data modeling |
 | EX-02 | Calculer le taux de réponse par région | Fonctionnelle | SQL & analyse statistique |
 | EX-03 | Calculer le taux d'imputation par région | Fonctionnelle | SQL & analyse statistique |
 | EX-04 | Détecter les valeurs aberrantes selon deux méthodes distinctes (IQR et Z-score) | Fonctionnelle | SQL & analyse statistique |
