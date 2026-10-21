@@ -18,14 +18,14 @@ Avant toute modélisation de données, cette phase vise à traduire les compéte
 ## 1.3 Exigences techniques et fonctionnelles
 
 | Réf. | Exigence | Type | Justification |
-|---|---|---|
+|---|---|---|---|
 | EX-01 | Modéliser un schéma en étoile normalisé, compatible SQLite et Azure SQL | Technique | Data modeling |
 | EX-02 | Calculer le taux de réponse par région | Fonctionnelle | SQL & analyse statistique |
 | EX-03 | Calculer le taux d'imputation par région | Fonctionnelle | SQL & analyse statistique |
-| EX-04 | Détecter les valeurs aberrantes selon deux méthodes distinctes (IQR et Z-score) | Fonctionnelle |  SQL & analyse statistique |
+| EX-04 | Détecter les valeurs aberrantes selon deux méthodes distinctes (IQR et Z-score) | Fonctionnelle | SQL & analyse statistique |
 | EX-05 | Classer (ranking) les régions selon la qualité des données | Fonctionnelle | SQL & analyse statistique |
-| EX-06 | Suivre l'évolution du taux de réponse dans le temps | Fonctionnelle |  SQL & analyse statistique |
-| EX-07 | Construire un indice composite de qualité (taux de réponse, taux de retard, taux d'anomalie) | Technique |  SQL & analyse statistique |
+| EX-06 | Suivre l'évolution du taux de réponse dans le temps | Fonctionnelle | SQL & analyse statistique |
+| EX-07 | Construire un indice composite de qualité (taux de réponse, taux de retard, taux d'anomalie) | Technique | SQL & analyse statistique |
 | EX-08 | Restituer une carte régionale interactive | Technique | Dashboard Power BI |
 | EX-09 | Afficher des KPIs de taux de réponse et d'imputation | Fonctionnelle | Dashboard Power BI |
 | EX-10 | Générer des alertes visuelles conditionnelles pour les régions à risque | Fonctionnelle | Dashboard Power BI |
