@@ -30,7 +30,7 @@ Avant toute modélisation de données, cette phase vise à traduire les compéte
 | EX-09 | Afficher des KPIs de taux de réponse et d'imputation | Fonctionnelle | Dashboard Power BI |
 | EX-10 | Générer des alertes visuelles conditionnelles pour les régions à risque | Fonctionnelle | Dashboard Power BI |
 | EX-11 | Suivre les tendances temporelles via l'intelligence temporelle DAX | Fonctionnelle | Dashboard Power BI |
-| EX-12 | Garantir une architecture portable vers Azure SQL Database | Technique |  Data modeling |
+| EX-12 | Garantir une architecture portable vers Azure SQL Database | Technique | Data modeling |
 
 ## 1.4 Matrice de traçabilité
 
